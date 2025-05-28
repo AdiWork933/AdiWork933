@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at
   - [https://github.com/AdiWork933](https://github.com/AdiWork933)
-  - [Collage-Management-System]([https://github.com/AdiWork933](https://github.com/AdiWork933/Collage-Data-management))
+  - [Collage-Management-System](https://github.com/AdiWork933/Collage-Data-management)
 
 - 📫 How to reach me **adityawork711218@gmail.com**
 
