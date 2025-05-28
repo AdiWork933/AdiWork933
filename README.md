@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [ChatBot](https://gjs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdiWork933](https://github.com/AdiWork933)
+- 👨‍💻 All of my projects are available at
+  - [https://github.com/AdiWork933](https://github.com/AdiWork933)
+  - [Collage-Management-System]([https://github.com/AdiWork933](https://github.com/AdiWork933/Collage-Data-management))
 
 - 📫 How to reach me **adityawork711218@gmail.com**
 
