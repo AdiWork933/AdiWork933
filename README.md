@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [ChatBot](https://gjs)
+- 🔭 I’m currently working on [ChatBot](https://github.com/AdiWork933/Ofline_ChatBot)
 
 - 👨‍💻 All of my projects are available at
   - [https://github.com/AdiWork933](https://github.com/AdiWork933)
