@@ -8,6 +8,7 @@
   - [Collage-Management-System](https://github.com/AdiWork933/Collage-Data-management)
   - [MCQ-Assessment-Portal](https://github.com/AdiWork933/MCQ-Assessment-Portal)
   - [IOT Projects](https://github.com/AdiWork933/ITO_Projects)
+  - [AGRIBOT-SMART-FARMING-ROVER](https://github.com/AdiWork933/AGRIBOT-SMART-FARMING-ROVER).
 
 - 📫 How to reach me **adityawork711218@gmail.com**
 
