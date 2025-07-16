@@ -13,6 +13,8 @@
 - 📫 How to reach me **adityawork711218@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/AdiWork933](https://github.com/AdiWork933)
+  
+- Private Repository [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)    [ChatBot](https://github.com/AdiWork933/Ofline_ChatBot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
