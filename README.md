@@ -6,12 +6,17 @@
 - 👨‍💻 All of my projects are available at
   - [https://github.com/AdiWork933](https://github.com/AdiWork933)
   - [Collage-Management-System](https://github.com/AdiWork933/Collage-Data-management)
-  - [TRY MCQ_V2](https://mcq-assessment-portal-by-aditya.onrender.com/login)
+  - [MCQ-Assessment-Portal](https://github.com/AdiWork933/MCQ-Assessment-Portal) | [TRY MCQ_V2](https://mcq-assessment-portal-by-aditya.onrender.com/login)
+  - [ChatBot](https://github.com/AdiWork933/Ofline_ChatBot)</br>
+  
+  ---
+  
   - [IOT Projects](https://github.com/AdiWork933/ITO_Projects)</br>
           I. [ES32_WIFI_Repeter](https://github.com/AdiWork933/ITO_Projects/tree/main/ES32_WIFI_Repeter)</br>
           II. [ESP32 Marauder](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP32%20Marauder)</br>
           III. [ESP8266_Draw](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP8266_Draw)</br>
-          IV.  [Web_switch](https://github.com/AdiWork933/ITO_Projects/tree/main/Web_switch)
+          IV.  [Web_switch](https://github.com/AdiWork933/ITO_Projects/tree/main/Web_switch)</br>
+          V. [Offline_ESP_Chat](https://github.com/AdiWork933/Offline_ESP_Chat)</br>
   - [AGRIBOT-SMART-FARMING-ROVER](https://github.com/AdiWork933/AGRIBOT-SMART-FARMING-ROVER).
 
 - 📫 How to reach me **adityawork711218@gmail.com**
@@ -20,9 +25,6 @@
   
 - Private Repository</br>
     [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)</br>
-    [ChatBot](https://github.com/AdiWork933/Ofline_ChatBot)</br>
-    [MCQ-Assessment-Portal](https://github.com/AdiWork933/MCQ-Assessment-Portal)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-choudhary-312a11302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-choudhary-312a11302/" height="30" width="40" /></a>
