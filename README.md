@@ -9,7 +9,8 @@
   - [MCQ-Assessment-Portal](https://github.com/AdiWork933/MCQ-Assessment-Portal) | [TRY MCQ_V2](https://mcq-assessment-portal-by-aditya.onrender.com/login) | [TRY MCQ_V3](https://mcq-assessment-portal-v3-by-adi-kej9.onrender.com)
   - [ChatBot](https://github.com/AdiWork933/Ofline_ChatBot)</br>
   - [ChatBot UI](https://github.com/AdiWork933/ChatBot_UI)
-  - [voice2sentiment model](https://github.com/AdiWork933/voice2sentiment) Privat repo
+  -  ``` Private Repository``` [voice2sentiment model](https://github.com/AdiWork933/voice2sentiment)
+  -  ``` Private Repository``` [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)
   
   ---
   
@@ -26,8 +27,7 @@
 - 📄 Know about my experiences [Click here](https://github.com/user-attachments/files/24016468/AdityaChoudharyResume.pdf.pdf)
 
   
-- Private Repository</br>
-    [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-choudhary-312a11302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-choudhary-312a11302/" height="30" width="40" /></a>
