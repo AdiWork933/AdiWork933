@@ -23,7 +23,8 @@
 
 - 📫 How to reach me **adityawork711218@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AdiWork933](https://github.com/AdiWork933)
+- 📄 Know about my experiences [Click here](https://github.com/user-attachments/files/24016468/AdityaChoudharyResume.pdf.pdf)
+
   
 - Private Repository</br>
     [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)</br>
