@@ -42,3 +42,12 @@
   <a href="https://openapi.com/blog/postman-what-it-is-and-how-it-works" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c5a1cce1-920c-4de7-86af-46d54753ecc9" alt="tensorflow" width="100" height="67"/> 
 </a> 
 </p>
+
+---
+
+<div align="center">
+  <h1>☕ Support My Work</h1>
+  <a href="https://buymeacoffee.com/adityaworkl">
+    <img src="https://github.com/user-attachments/assets/a87aabf9-dffa-4411-9d4d-d68fc5dbdaa5" width="200" alt="Buy Me A Coffee QR Code" />
+  </a>
+</div>
