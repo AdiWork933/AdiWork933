@@ -9,17 +9,17 @@
   - [MCQ-Assessment-Portal](https://github.com/AdiWork933/MCQ-Assessment-Portal)
   - [ChatBot](https://github.com/AdiWork933/Ofline_ChatBot)</br>
   - [ChatBot UI](https://github.com/AdiWork933/ChatBot_UI)
-  -  ``` Private Repository``` [voice2sentiment model](https://github.com/AdiWork933/voice2sentiment)
+  - [voice2sentiment model](https://github.com/AdiWork933/voice2sentiment)
   -  ``` Private Repository``` [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)
   
   ---
   
   - [IOT Projects](https://github.com/AdiWork933/ITO_Projects)</br>
-          I. [ES32_WIFI_Repeter](https://github.com/AdiWork933/ITO_Projects/tree/main/ES32_WIFI_Repeter)</br>
-          II. [ESP32 Marauder](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP32%20Marauder)</br>
-          III. [ESP8266_Draw](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP8266_Draw)</br>
-          IV.  [Web_switch](https://github.com/AdiWork933/ITO_Projects/tree/main/Web_switch)</br>
-          V. [Offline_ESP_Chat](https://github.com/AdiWork933/Offline_ESP_Chat)</br>
+  - [ES32_WIFI_Repeter](https://github.com/AdiWork933/ITO_Projects/tree/main/ES32_WIFI_Repeter)</br>
+  - [ESP32 Marauder](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP32%20Marauder)</br>
+  - [ESP8266_Draw](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP8266_Draw)</br>
+  - [Web_switch](https://github.com/AdiWork933/ITO_Projects/tree/main/Web_switch)</br>
+  - [Offline_ESP_Chat](https://github.com/AdiWork933/Offline_ESP_Chat)</br>
   - [AGRIBOT-SMART-FARMING-ROVER](https://github.com/AdiWork933/AGRIBOT-SMART-FARMING-ROVER).
 
 - 📫 How to reach me **adityawork711218@gmail.com**
