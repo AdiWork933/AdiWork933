@@ -24,7 +24,6 @@
 
 - 📫 How to reach me **adityawork711218@gmail.com**
 
-- 📄 Know about my experiences [Click here](https://github.com/user-attachments/files/24016468/AdityaChoudharyResume.pdf.pdf)
 
   
 
