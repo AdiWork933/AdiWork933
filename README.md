@@ -11,7 +11,7 @@
   - [ChatBot UI](https://github.com/AdiWork933/ChatBot_UI)
   - [voice2sentiment model](https://github.com/AdiWork933/voice2sentiment)
   - [ContentHub](https://github.com/AdiWork933/ContentHub?tab=readme-ov-file#features)
-  -  ``` Private Repository``` [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)
+  - [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)
   
   ---
   
