@@ -12,6 +12,7 @@
   - [voice2sentiment model](https://github.com/AdiWork933/voice2sentiment)
   - [ContentHub](https://github.com/AdiWork933/ContentHub?tab=readme-ov-file#features)
   - [Oral Cancer](https://github.com/AdiWork933/Oral_Cancer)
+  - [XTSClient](https://github.com/AdiWork933/XTSClient)
   
   ---
   
